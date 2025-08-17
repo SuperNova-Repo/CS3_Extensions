@@ -4,7 +4,7 @@
 
 ## A fork of "Vietnamese Extension" [Cross-Device Syncing]
 
-It's a fork of anhdaden's "Vietnamese Extension" for "SyncProvider" [Cross-Device Syncing] only! 
+It's a fork of anhdaden's "Vietnamese Extension" for "SyncProvider" [Cross-Device Syncing] & XtreamIPTV only! 
 
 
 
