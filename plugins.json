@@ -1,0 +1,56 @@
+[
+    {
+        "iconUrl": "https://clouding.vn/wp-content/uploads/2022/10/cropped-Cloud-Services-192x192.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/SuperNova-Repo/CS3_extensions/blob/builds/repo.json",
+        "fileSize": 39768,
+        "status": 1,
+        "authors": [
+            "Kostya Lolinger"
+        ],
+        "version": 6,
+        "internalName": "SyncProvider",
+        "description": "SyncProvider",
+        "url": "https://raw.githubusercontent.com/SuperNova-Repo/CS3_extensions/refs/heads/builds/SyncProvider.cs3",
+        "name": "Cross-Device Sync"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/SuperNova-Repo/CS3_extensions/blob/builds/repo.json",
+        "fileSize": 174504,
+        "status": 1,
+        "authors": [
+            "Kostya Lolinger"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Anime",
+            "Movie", 
+            "Live"
+        ],
+        "version": 26,
+        "internalName": "MovieProvider",
+        "description": "Testing",
+        "url": "https://raw.githubusercontent.com/SuperNova-Repo/CS3_extensions/refs/heads/builds/MovieProvider.cs3",
+        "name": "MovieProvider"
+    },
+    {
+        "iconUrl": "https://play-lh.googleusercontent.com/gMB8Eq9g9Uq6CXiOHcqatXpx-6HTexAzcQibTgpqAE756Fnt1Jyyp0j7S3UDKPztkA=w480-h960-rw",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/SuperNova-Repo/CS3_extensions/blob/builds/repo.json",
+        "fileSize": 28997,
+        "status": 1,
+        "authors": [
+            "Kostya Lolinger"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "XtreamIPTVProvider",
+        "description": "Xtream IPTV",
+        "url": "https://raw.githubusercontent.com/SuperNova-Repo/CS3_extensions/refs/heads/builds/XtreamIPTVProvider.cs3",
+        "name": "XtreamIPTVProvider"
+    }
+]
