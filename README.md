@@ -1,4 +1,4 @@
-# CS3_extensions
+# CS3-extensions
 
 
 ## SyncProvider
