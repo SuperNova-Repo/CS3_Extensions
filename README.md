@@ -1,10 +1,10 @@
 # CS3_extensions
 
-###SyncProvider
+## SyncProvider
 For Cross-Device sync
 
-###MovieProvider
+## MovieProvider
 For testings
 
-###XtreamIPTVProvider
+## XtreamIPTVProvider
 For Xtream testings
