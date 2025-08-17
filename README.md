@@ -1,14 +1,9 @@
-# CS3-extensions
+# SuperNova's CS3-Extensions
 
 
-## SyncProvider
-for Cross-Device sync
 
+## A fork of "Vietnamese Extension" [Cross-Device Syncing]
 
-## MovieProvider
-for testings
+It's a fork of anhdaden's "Vietnamese Extension" for "SyncProvider" [Cross-Device Syncing] only! 
 
-
-## XtreamIPTVProvider
-for Xtream testings
 
