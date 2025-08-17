@@ -2,7 +2,7 @@
 
 
 
-## A fork of "Vietnamese Extension" 
+## A fork of "Vietnamese Extension" [Cross-Device Syncing]
 
-It's a fork of anhdaden's "Vietnamese Extension"
+It's a fork of anhdaden's "Vietnamese Extension" for "SyncProvider" [Cross-Device Syncing] only! 
 
