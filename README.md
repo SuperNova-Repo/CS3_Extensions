@@ -8,7 +8,7 @@ It's a fork of anhdaden's "Vietnamese Extension" for "SyncProvider" [Cross-Devic
 
 
 
-### [CS3-Cross-Device_Sync-Repo] (https://bit.ly/CS3-Cross-Device_Sync-Repo)
+### [CS3-Cross-Device_Sync-Repo](https://bit.ly/CS3-Cross-Device_Sync-Repo)
 
 
 
