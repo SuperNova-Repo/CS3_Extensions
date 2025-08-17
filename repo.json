@@ -1,0 +1,8 @@
+{
+    "name": "SuperNova's CS3-Extension",
+    "description": "Just4tests",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/SuperNova-Repo/CS3_extensions/refs/heads/builds/plugins.json"
+    ]
+}
